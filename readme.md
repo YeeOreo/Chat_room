@@ -24,10 +24,20 @@
 
 ` node chatAPI-localhost.js`
 
-> notice: localhost 3000 will be used or you can change the port number in chatAPI-localhost.
+> notice: localhost 3000 will be used or you can change the port number in "chatAPI-localhost.js".
+
+-   View it on web browser
+
+`localhost:3000`
 
 # Run 2
 
 -   at directory "進階題\_Advanced_questions/express_framework"
 
 ` npm start`
+
+> notice: localhost 3000 will be used or you can change the port number in "bin/www".
+
+-   View it on web browser
+
+`localhost:3000`

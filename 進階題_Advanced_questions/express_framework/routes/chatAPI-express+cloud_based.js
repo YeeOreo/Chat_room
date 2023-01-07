@@ -1,4 +1,5 @@
 // chatAPI.js which using Express framework and it deployed on Cyclic also connect to the database which is cloud based MongoDB Atlas.
+// localhost 3000 will be used after running "npm start", or you can change the port number in "bin/www".
 const express = require("express");
 const ChatRecord = require("../schemas/chatRoom");
 const router = express.Router();
